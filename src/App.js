@@ -1,9 +1,10 @@
-function App() {
+import palavras from './palavras';
+
+export default function App() {
   return (
     <>
-      
+      App
     </>
   )
 }
 
-export default App;
